@@ -1,8 +1,10 @@
 [
     {
-    "app":  "LocaLog", 
+    "app":  "LocaLog",
     "ar":  "برنامج رائع",
-    "en":  "Good App", 
-    "url":  "https://raw.githubusercontent.com/kejacbhoot/FashionCategory/main/reviews.jpg"
+    "en":  "Good App",
+    "g":  "el.mobarmeg.list_of_locations",
+    "h":  "el.mobarmeg.list_of_locations",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/localog.png"
     }
 ]
