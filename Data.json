@@ -5,7 +5,8 @@
     "en":  "Ultimate Location Notebook",
     "g":  "el.mobarmeg.list_of_locations",
     "h":  "el.mobarmeg.list_of_locations",
-    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/localog.png"
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/localog.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/localog2.jpg"
     },
     {
     "app":  "Fashion Accessories",
@@ -13,6 +14,7 @@
     "en":  "amazing accessories gallery",
     "g":  "el.mobarmeg.fashion_accessories",
     "h":  "el.mobarmeg.fashion_accessories",
-    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/fashion.png"
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/fashion.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/fashion2.jpg"
     }
 ]
