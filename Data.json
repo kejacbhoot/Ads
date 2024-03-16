@@ -9,9 +9,63 @@
     "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/localog2.jpg"
     },
     {
+    "app":  "Breaker Ball",
+    "ar":  "لعبة الكرة الشقية",
+    "en":  "Amazing ball game",
+    "g":  "kejac.co.breaker",
+    "h":  "kejac.co.breaker",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/breaker.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/breaker2.jpg"
+    },
+    {
+    "app":  "Snake",
+    "ar":  "لعبة الثعبان الشيقة",
+    "en":  "Amazing snake game",
+    "g":  "el.mobarmeg.snake",
+    "h":  "el.mobarmeg.snake",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/snake.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/snake2.jpg"
+    },
+    {
+    "app":  "Bricks Breaker",
+    "ar":  "لعبة الكرة الشقية",
+    "en":  "Amazing ball game",
+    "g":  "el.mobarmeg.bricksbreaker",
+    "h":  "el.mobarmeg.bricksbreaker",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/bbreaker.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/bbreaker2.jpg"
+    },
+    {
+    "app":  "Pong",
+    "ar":  "لعبة الكرة الشقية",
+    "en":  "Amazing ball game",
+    "g":  "kejac.co.pong",
+    "h":  "kejac.co.pong",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/pong.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/pong2.jpg"
+    },
+    {
+    "app":  "Snake Classico",
+    "ar":  "لعبة الثعبان الشيقة",
+    "en":  "Amazing snake game",
+    "g":  "kejac.co.snakeo",
+    "h":  "kejac.co.snakeo",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/snakeo.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/snakeo2.jpg"
+    },
+    {
+    "app":  "Ping Pong",
+    "ar":  "لعبة الكرة الشقية",
+    "en":  "Amazing ball game",
+    "g":  "el.mobarmeg.pingpong",
+    "h":  "el.mobarmeg.pingpong",
+    "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/ppong.png",
+    "url2":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/ppong2.jpg"
+    },
+    {
     "app":  "Fashion Accessories",
     "ar":  "اجمل الاكسسوارات النسائية",
-    "en":  "amazing accessories gallery",
+    "en":  "Amazing accessories gallery",
     "g":  "el.mobarmeg.fashion_accessories",
     "h":  "el.mobarmeg.fashion_accessories",
     "url":  "https://raw.githubusercontent.com/kejacbhoot/Ads/main/fashion.png",
